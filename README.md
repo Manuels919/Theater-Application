@@ -8,9 +8,10 @@ The Theater Application sells tickets to a theater show. The theater has 4 rows:
 * Tracks and displays the total number of seats available and the number of tickets sold.
 * Calculates and displays the total sales.
 
-<img width="451" alt="image" src="https://github.com/Manuels919/Theater-Application/assets/97078348/05e15aa5-bbb1-4041-a445-4c6c3600136d">
+<img width="452" alt="image" src="https://github.com/Manuels919/Theater-Application/assets/97078348/1384e68c-f2c1-409c-acb2-1e4cebb2fc76">
 
 * Allows users to save entries to text file or reset all of the seats.
-<img width="451" alt="image" src="https://github.com/Manuels919/Theater-Application/assets/97078348/36896d31-91df-4e31-95ee-32e8994d40cd">
-<img width="175" alt="image" src="https://github.com/Manuels919/Theater-Application/assets/97078348/b61d6e63-509a-4b5e-a847-33938451b514">
+<img width="454" alt="image" src="https://github.com/Manuels919/Theater-Application/assets/97078348/b6264025-3a9c-4cff-8ece-58ac4c743064">
+<img width="175" alt="image" src="https://github.com/Manuels919/Theater-Application/assets/97078348/2d096b49-6537-4476-b7f2-3deccda7c42e">
+
 
