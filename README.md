@@ -1,2 +1,3 @@
-<img width="456" alt="image" src="https://github.com/Manuels919/Theater-Application/assets/97078348/b797fd98-f236-4256-a5c5-8c55b01afd09">
+<img width="450" alt="image" src="https://github.com/Manuels919/Theater-Application/assets/97078348/5d5c0278-a029-44fd-bcc5-f57ac901a5b2">
+
 Nothing Yet...
